@@ -1,5 +1,5 @@
-To use this repo in 2025, use (tested on mac m2)
-`mamba env create -f env.yaml`
+To use this repo in 2025, use 
+`mamba env create -f env.yaml` (tested on mac m2)
 
 Based on https://github.com/chemprop/chemprop
 
