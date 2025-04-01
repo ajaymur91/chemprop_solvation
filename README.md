@@ -1,3 +1,6 @@
+To use this repo in 2025, use 
+`mamba env create -f env.yaml`
+
 Based on https://github.com/chemprop/chemprop
 
 # Property Prediction
